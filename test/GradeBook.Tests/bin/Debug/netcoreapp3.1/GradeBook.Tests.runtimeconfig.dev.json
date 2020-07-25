@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\redg8\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\redg8\\.nuget\\packages"
+    ]
+  }
+}
